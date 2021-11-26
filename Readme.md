@@ -7,11 +7,6 @@
 
 [Chat App Client](https://github.com/JS-IT/Chat-App-Client-React)
 
-<br></br>
-
-## Motive behind the App:
-#### Join. Chat. Leave. No Records.
-
 <br />
 
 ## Features of the App:
